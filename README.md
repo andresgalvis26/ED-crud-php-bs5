@@ -15,7 +15,7 @@ CRUD built from scratch in PHP, MYSQL and Bootstrap5 that allows to administrato
 To deploy this project was used: InfinityFree
 
 ```bash
-  http://jvh-crud-php.infinityfreeapp.com/
+  http://edcrud-php-bs5.infinityfreeapp.com/
 ```
 
 ### Remember: 
